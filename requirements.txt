@@ -1,0 +1,20 @@
+alembic
+asyncpg
+aioredis<2
+bcrypt
+cryptography
+databases
+dependency-injector
+fastapi
+fastapi-limiter
+ormar
+psycopg2-binary
+python-jose
+SQLAlchemy
+uvicorn
+
+# For testing:
+pytest
+pytest-asyncio
+pytest-cov
+httpx
